@@ -14,6 +14,7 @@ variable "example_var" {
 }
 ```
 
+
 In this example:
 
 - `variable` is used to declare an input variable named `example_var`.
